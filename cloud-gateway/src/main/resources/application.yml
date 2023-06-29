@@ -1,0 +1,6 @@
+eureka:
+  instance:
+    appname: cloud-gateway
+
+server:
+  port: 8201
