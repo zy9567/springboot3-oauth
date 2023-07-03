@@ -4,7 +4,6 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>cloud-member</module>
         <module>cloud-server</module>
         <module>cloud-gateway</module>
         <module>cloud-auth</module>
