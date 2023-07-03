@@ -8,6 +8,7 @@
         <module>cloud-server</module>
         <module>cloud-gateway</module>
         <module>cloud-auth</module>
+        <module>cloud-user</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
